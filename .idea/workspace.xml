@@ -123,6 +123,7 @@
       <updated>1664673348993</updated>
       <workItem from="1664673350593" duration="193000" />
       <workItem from="1670766760154" duration="691000" />
+      <workItem from="1670767467077" duration="801000" />
     </task>
     <servers />
   </component>
@@ -141,7 +142,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm$bubble_sort.coverage" NAME="bubble_sort 커버리지 결과" MODIFIED="1670766934632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$bubble_sort.coverage" NAME="bubble_sort 커버리지 결과" MODIFIED="1670767587505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$_.coverage" NAME="행렬 더하기 커버리지 결과" MODIFIED="1670766788968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$bubble.coverage" NAME="bubble 커버리지 결과" MODIFIED="1670767055228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
